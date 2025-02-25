@@ -1,0 +1,30 @@
+{
+    "name": "uptime",
+    "version": "1.0.0",
+    "description": "Do You Use Replit For Your Discord Bot? Do You Use Features Like Uptime Robot For Your Bot? Why Not Make One Yourself With A Higher Ping Rate. due to high work it is pretty sure that repl never sleeps... the big ones might have lags, then why not make one yourself?",
+    "main": "bom.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node bom.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/compteccharan/Ultimate-Discord-Bot.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/compteccharan/Ultimate-Discord-Bot/issues"
+    },
+    "homepage": "https://github.com/compteccharan/Ultimate-Discord-Bot/",
+    "dependencies": {
+      "discord.js": "^12.5.3",
+      "dotenv": "^16.4.7",
+      "express": "^4.17.1",
+      "node-fetch": "^2.7.0",
+      "quickuptime": "^1.0.6-Update"
+    },
+    "devDependencies": {}
+  }
+  
